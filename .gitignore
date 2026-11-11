@@ -1,0 +1,12 @@
+# Pastas de sessão e cookies do navegador (NUNCA subir para o GitHub)
+sessao_nto/
+sessao_nto_stealth/
+sessao_nto_overdrive/
+**/sessao_*/
+
+# Backups e cache do Python
+*.backup.json
+__pycache__/
+*.pyc
+.venv/
+venv/

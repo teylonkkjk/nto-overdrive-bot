@@ -1,0 +1,16 @@
+{
+  "perfil": "Overdrive IA",
+  "ia_ativa": true,
+  "burst": true,
+  "priorizar_cd": true,
+  "sustain": true,
+  "hunt": true,
+  "presets": true,
+  "auto_loot": true,
+  "missoes": true,
+  "up_stats": true,
+  "reconnect": true,
+  "anti_pk": true,
+  "proteger_stamina": true,
+  "delay_medio": 0.18
+}
